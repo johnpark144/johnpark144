@@ -9,7 +9,7 @@ challenge spirit! creative spirit! those are with me.
 
 ```
 ### Python (framework, library)
-pyautogui, BeautifulSoup, selenium, pygame, django(only tutorial)
+Pyautogui, BeautifulSoup, Selenium, Pygame, Django(only tutorial)
 
 ### Etc
 C from school for 4 years / HTML, CSS, Javascript only tutorial
