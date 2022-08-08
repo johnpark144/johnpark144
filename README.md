@@ -1,7 +1,10 @@
 ## 👋 Introduce 
 ✔️ Name : Yeonghwan Park
+
 ✔️ Address : Pasadena, Tx
+
 ✔️ E-mail : vyckd354@gmail.com
+
 ✔️ Github : johnpark144
 ``` 
 I am the one who love to learn with passion !
