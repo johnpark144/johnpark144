@@ -1,5 +1,5 @@
 ## 👋 Introduce 
-✔️ Name : Yeonghwan Park
+✔️ Name : Yeonghwan Park (John Park)
 
 ✔️ Address : Pasadena, Tx
 
