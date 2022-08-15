@@ -13,10 +13,10 @@ challenge spirit! creative spirit! those are with me.
 ```
 ## 🛠 Technical Skills
 ### Python (framework, library)
-Pyautogui, BeautifulSoup, Selenium, Pygame, Django(only tutorial)
+Pyautogui, BeautifulSoup, Selenium, Pygame, Django
 
 ### Etc
-C from school for 4 years / HTML, CSS, Javascript only tutorial
+C from school for 4 years / HTML, CSS, Javascript
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
