@@ -1,7 +1,7 @@
 ## 👋 Introduce 
 ✔️ Name : Yeonghwan Park (John Park)
 
-✔️ Address : Pasadena, Tx
+✔️ Address : Pasadena, Tx (Born in Korea)
 
 ✔️ E-mail : vyckd354@gmail.com
 
