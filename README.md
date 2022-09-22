@@ -16,7 +16,7 @@ challenge spirit! creative spirit! those are with me.
 Pyautogui, BeautifulSoup, Selenium, Pygame, Django
 
 ### Etc
-C from school for 4 years / HTML, CSS, Javascript
+HTML, CSS(Bootstrap), Javascript(Jquery) / C from school for 4 years 
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
