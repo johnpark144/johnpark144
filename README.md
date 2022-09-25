@@ -7,7 +7,7 @@
 
 ✔️ Github : johnpark144
 ``` 
-I am the one who love to learn with passion !
+I am the entry developer who love to learn with passion !
 challenge spirit! creative spirit! those are with me.
 
 ```
