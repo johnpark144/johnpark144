@@ -8,12 +8,12 @@
 ✔️ Github : johnpark144
 ``` 
 I am the entry developer who love to learn with passion !
-challenge spirit! creative spirit! those are with me.
+challenge spirit! creative spirit! those are what I have
 
 ```
 ## 🛠 Technical Skills
 ### Python (framework, library)
-Pyautogui, BeautifulSoup, Selenium, Pygame, Django
+Django, BeautifulSoup, Selenium, Pyautogui, Pygame
 
 ### Etc
 HTML, CSS(Bootstrap), Javascript(Jquery) / C from school for 4 years 
