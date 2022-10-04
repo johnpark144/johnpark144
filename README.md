@@ -15,8 +15,11 @@ challenge spirit! creative spirit! those are what I have
 ### Python (framework, library)
 Django, BeautifulSoup, Selenium, Pyautogui, Pygame
 
+### Javascript
+React, Jquery
+
 ### Etc
-HTML, CSS(Bootstrap), Javascript(Jquery) / C from school for 4 years
+HTML, CSS(Bootstrap), MYSQL / C from school for 4 years
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
