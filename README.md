@@ -8,8 +8,10 @@
 ✔️ Github : johnpark144
 
 ``` 
-I am the entry developer who love to learn with passion!
-challenge spirit! creative spirit! those are what I have
+I am the entry web developer who are aiming for fullstack developer.
+Many developer say fullstack is like unicorn that is impossible.
+considering only making money, Yes they are right.
+but I am dreaming of it because I enjoy
 
 ```
 ## 🛠 Technical Skills
