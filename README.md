@@ -19,10 +19,11 @@ but I am dreaming of it because I enjoy
 Django, BeautifulSoup, Selenium, Pyautogui, Pygame
 
 ### Javascript
-React, Jquery
+React, Jquery, 
 
 ### Etc
-HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase / C from school for 4 years
+HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
+/ C from school for 4 years
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
