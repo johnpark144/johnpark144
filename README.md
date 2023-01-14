@@ -9,17 +9,15 @@
 
 ``` 
 I am the entry web developer who are aiming for fullstack developer.
-Many developer say fullstack is like unicorn that is impossible.
-considering only making money, Yes they are right.
-but I am dreaming of it because I enjoy
+but I am dreaming of it not for money but because I enjoy
 
 ```
 ## 🛠 Technical Skills
 ### Python (framework, library)
 Django, BeautifulSoup, Selenium, Pyautogui, Pygame
 
-### Javascript
-React, Jquery, 
+### Javascript / Typescript
+React JS, Next JS, ReduxTK, React query, Jquery (etc)
 
 ### Etc
 HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
