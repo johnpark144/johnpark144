@@ -8,7 +8,7 @@
 ✔️ Github : johnpark144
 
 ``` 
-I am the entry web developer who are aiming for fullstack developer.
+I am the entry front developer who are aiming for fullstack developer.
 but I am dreaming of it not for money but because I enjoy
 
 ```
