@@ -14,7 +14,7 @@ but I am dreaming of it not for money but because I enjoy !
 ```
 ## 🛠 Technical Skills
 ### Python (framework, library)
-Django, BeautifulSoup, Selenium, Pyautogui, Pygame
+Django, <strike>BeautifulSoup, Selenium, Pyautogui, Pygame </strike>
 
 ### Javascript / Typescript
 React JS, Next JS, ReduxTK, React query, Jquery (etc)
