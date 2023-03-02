@@ -1,5 +1,5 @@
 ## 👋 Introduce 
-✔️ Name : Yeonghwan Park (John Park)
+✔️ Name : 박영환 Yeonghwan Park (John Park)
 
 ✔️ Address : Pasadena, Tx (Born in Korea)
 
