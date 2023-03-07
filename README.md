@@ -26,4 +26,5 @@ HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
 * Shingu College (South Korea) – Mobile IT Media (Only some credits not Graduated)
-* IBM Data science certificate
+* Meta Front end Developer Certificate
+* IBM Data Science Certificate
