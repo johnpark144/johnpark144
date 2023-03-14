@@ -1,5 +1,6 @@
 ## 👋 Introduce 
-✔️ Name : Yeonghwan Park (박영환) ✔️ English Name : John Park
+✔️ Name : Yeonghwan Park (박영환)
+✔️ English Name : John Park
 
 ✔️ Address : Pasadena, Tx (Born in Korea)
 
