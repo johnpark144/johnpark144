@@ -17,7 +17,7 @@ but I am dreaming of it not for money but because I enjoy !
 Django, <strike>BeautifulSoup, Selenium, Pyautogui, Pygame </strike>
 
 ### Javascript / Typescript
-React JS, Next JS, ReduxTK, React query, Jquery (etc)
+React JS, Next JS, ReduxTK, React query, RTL & Jest, <strike>Jquery</strike> (etc)
 
 ### Etc
 HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
@@ -27,4 +27,4 @@ HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
 * Shingu College (South Korea) – Mobile IT Media (Only some credits not Graduated)
 * Meta Front end Developer Certificate
-* IBM Data Science Certificate
+* 
