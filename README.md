@@ -20,7 +20,7 @@ Django, <strike>BeautifulSoup, Selenium, Pyautogui, Pygame </strike>
 React JS, Next JS, ReduxTK, React query, RTL & Jest, <strike>Jquery</strike>, etc...
 
 ### Etc
-HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
+HTML, CSS(Bootstrap, Tailwind Css, Styled-Components), MYSQL, FireBase
 / C from school for 4 years
 
 ## 💻 Relative Activity
