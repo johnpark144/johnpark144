@@ -27,4 +27,4 @@ HTML, CSS(Bootstrap, Tailwind Css), MYSQL, FireBase
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
 * Shingu College (South Korea) – Mobile IT Media (Only some credits not Graduated)
 * Meta Front end Developer Certificate
-* 
+* and Redux, NextJs, RTL & Jest Certificate
