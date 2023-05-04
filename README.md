@@ -15,7 +15,7 @@ but I am dreaming of it not for money but because I enjoy !
 
 ```
 ## 🛠 Technical Skills
-### Python (framework, library)
+### Python
 Django
 
 ### Javascript / Typescript
