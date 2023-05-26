@@ -15,11 +15,11 @@ but I am dreaming of it not for money but because I enjoy !
 
 ```
 ## 🛠 Technical Skills
-### Python
-Django
-
 ### Javascript / Typescript
 React JS, Next JS, ReduxTK, React query, RTL & Jest, Jquery, etc...
+
+### Python
+Django
 
 ### Etc
 HTML, CSS(Bootstrap, Tailwind Css, Styled-Components), MYSQL, FireBase
