@@ -22,7 +22,7 @@ React JS, Next JS, ReduxTK, React query, RTL & Jest, Jquery, etc...
 Django
 
 ### Etc
-HTML, CSS(Bootstrap, Tailwind Css, Styled-Components), MYSQL, FireBase
+HTML, CSS(Bootstrap, Tailwind Css, Styled-Components), FireBase
 / C from school for 4 years
 
 ## 💻 Relative Activity
