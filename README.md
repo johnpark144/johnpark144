@@ -44,7 +44,7 @@ but I am dreaming of it not for money but because I enjoy !
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
-* Shingu College (South Korea) – Mobile IT Media (Only some credits not Graduated)
+* Shingu College (South Korea) – Mobile IT Media (Only some credits done)
 * Meta Front end Developer Certificate
 * and Redux, NextJs, RTL & Jest Certificate
   
