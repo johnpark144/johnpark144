@@ -17,9 +17,9 @@ but I am dreaming of it not for money but because I enjoy !
 
 ```
 
-<table width="980px">
+<table width="1000px">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="60%">
 <h3>🛠 Languages and Tools</h3>
 <hr> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&#160;</a>
@@ -45,7 +45,7 @@ but I am dreaming of it not for money but because I enjoy !
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&#160;</a>
  <br> <br>
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="40%">
 <h3>🌱 These days, I'm studying about </h3>
 <hr> <br>
 &#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>Native</a>,<br><br>
