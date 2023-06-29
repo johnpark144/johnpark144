@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpark144&label=Profile%20views&color=0e75b6&style=flat" alt="johnpark144" /> </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Introduce <!-- Continuous Improvement Programme - CIP -->
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Introduce
 ### ![hell0](https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif)
-<!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
 ✔️ Name : Yeonghwan Park (박영환)
 
@@ -60,4 +59,6 @@ but I am dreaming of it not for money but because I enjoy !
 <a href="https://fb.com/profile.php?id=100003649412881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100003649412881" height="30" width="40" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
