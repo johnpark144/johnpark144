@@ -17,7 +17,7 @@ but I am dreaming of it not for money but because I enjoy !
 
 ```
 
-<table width="1000px">
+<table width="1200px">
 <tr>
 <td valign="top" width="60%">
 <h3>🛠 Languages and Tools</h3>
