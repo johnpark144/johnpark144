@@ -20,7 +20,8 @@ but I am dreaming of it not for money but because I enjoy !
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> ,
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> ,
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="reactquery" width="40" height="40"/> </a> ,
-React query, Jquery, etc...
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/J/jquery-logo-CFE6ECE363-seeklogo.com.png" alt="jquery" width="40" height="40"/> </a> ,
+etc...
  <br> <br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <br> ,
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
@@ -32,8 +33,7 @@ React query, Jquery, etc...
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> ,
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> ,
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> ,
-Styled-Components
-
+<a href="https://styled-components.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.cdnlogo.com/logos/s/10/styled-components.svg" alt="git" width="40" height="40"/> </a>
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
