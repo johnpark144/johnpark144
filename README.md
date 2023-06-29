@@ -54,8 +54,7 @@ but I am dreaming of it not for money but because I enjoy !
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-## 💻 Relative Activity
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
 * Shingu College (South Korea) – Mobile IT Media (Only some credits done)
 * Meta Front end Developer Certificate
