@@ -68,7 +68,7 @@ but I am dreaming of it not for money but because I enjoy !
 <table width="980px">
 <tr>
 <td valign="top" width="50%">
-<p style="font-size: 16pt; font-weight: bold;">🛠 Languages and Tools</p>
+<h1>🛠 Languages and Tools</h1>
  <br> <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&#160;</a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>&#160;</a>
@@ -94,7 +94,7 @@ but I am dreaming of it not for money but because I enjoy !
  <br> <br>
 </td>
 <td valign="top" width="50%">
-<p style="font-size: 16pt; font-weight: bold;">🌱 These days, I'm studying about </p>
+<h1>🌱 These days, I'm studying about </h1>
  <br> <br>
 &#10551;<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>Native</a> && Theory for CS, Web development
 </td>
