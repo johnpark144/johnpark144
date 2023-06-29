@@ -40,7 +40,7 @@ but I am dreaming of it not for money but because I enjoy !
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&#160;</a>
  <br> <br>
 ## 🌱 These days, I'm studying about <br>
-&#10551;<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>Native</a> and CS
+&#10551;<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>Native</a> + Theory for CS, Web development
 
 ## 💻 Relative Activity
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
