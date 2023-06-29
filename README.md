@@ -47,8 +47,6 @@ but I am dreaming of it not for money but because I enjoy !
 * Shingu College (South Korea) – Mobile IT Media (Only some credits done)
 * Meta Front end Developer Certificate
 * and Redux, NextJs, RTL & Jest Certificate
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnpark144" alt="johnpark144" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnpark144&show_icons=true&locale=en&layout=compact" alt="johnpark144" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnpark144&show_icons=true&locale=en" alt="johnpark144" /></p>
