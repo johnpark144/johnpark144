@@ -1,6 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpark144&label=Profile%20views&color=0e75b6&style=flat" alt="johnpark144" /> </p>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Introduce 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Introduce <!-- Continuous Improvement Programme - CIP -->
+### ![hell0](https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif)
+<!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
 ✔️ Name : Yeonghwan Park (박영환)
 
