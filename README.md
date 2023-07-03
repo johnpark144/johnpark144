@@ -48,7 +48,7 @@ but I am dreaming of it not for money but because I enjoy !
 <td valign="top" width="40%">
 <h3>🌱 Now, I'm studying </h3>
 <hr> <br>
-&#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://pngset.com/images/react-native-react-native-logo-word-text-symbol-trademark-transparent-png-814881.png" alt="reactnative" width="40" height="40"/></a>,<br><br>
+&#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://toppng.com/uploads/preview/react-native-svg-transformer-allows-you-import-svg-aperture-science-innovators-logo-11562851994zqcpwozsvy.svg" alt="reactnative" width="40" height="40"/></a>,<br><br>
 &#10551; Theory for CS, Web development
 </td>
 </tr>
