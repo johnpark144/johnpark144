@@ -48,7 +48,7 @@ but I am dreaming of it not for money but because I enjoy !
 <td valign="top" width="40%">
 <h3>🌱 Now, I'm studying </h3>
 <hr> <br>
-&#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="reactnative" width="40" height="40"/></a>,<br><br>
+&#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="reactnative" width="40" height="40"/></a><br><br>
 &#10551; Theory for CS, Web development
 </td>
 </tr>
