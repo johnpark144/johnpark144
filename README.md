@@ -13,7 +13,7 @@
 
 ``` 
 I am the entry frontend developer who are smart at work aiming for fullstack developer someday.
-but I am dreaming of it not for money but because I enjoy !
+but I am dreaming of it since I enjoy !
 
 ```
 
