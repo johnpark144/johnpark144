@@ -64,7 +64,6 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnpark144&show_icons=true&locale=en" alt="johnpark144" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnpark144&" alt="johnpark144" /></p>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
