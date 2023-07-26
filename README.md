@@ -12,8 +12,8 @@
 ✔️ Github : johnpark144
 
 ``` 
-I am the entry frontend developer who are smart at work aiming for fullstack developer someday.
-but I am dreaming of it since I enjoy !
+Hi! I am a front-end developer who is gradually developing as a full-stack developer.
+I am eagerly longing to be a good full-stack developer, That is my life-goal
 
 ```
 
