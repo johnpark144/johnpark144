@@ -34,6 +34,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
  <br> <br>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&#160;</a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>&#160;</a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="reactnative" width="40" height="40"/></a><br><br>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>&#160;</a>
 <a href="https://tanstack.com/query/latest" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="reactquery" width="40" height="40"/>&#160;</a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>&#160;</a>
@@ -48,7 +49,6 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 <td valign="top" width="40%">
 <h3>🌱 Now, I'm studying </h3>
 <hr> <br>
-&#10551; <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="reactnative" width="40" height="40"/></a><br><br>
 &#10551; Theory for CS, Web development
 </td>
 </tr>
