@@ -52,6 +52,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
  <br>
 &#10551; Project CI/CD 
  <br>
+ <br>
 &#10551; Theory for CS, Web development
 </td>
 </tr>
