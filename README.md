@@ -48,7 +48,10 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 </td>
 <td valign="top" width="40%">
 <h3>🌱 Now, I'm studying </h3>
-<hr> <br>
+<hr>
+ <br>
+&#10551; Project CI/CD 
+ <br>
 &#10551; Theory for CS, Web development
 </td>
 </tr>
