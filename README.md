@@ -9,7 +9,7 @@
 
 ✔️ E-mail : vyckd354@gmail.com
 
-✔️ LinkedIn : in/yeonghwan-park-203b73218
+✔️ LinkedIn : in/yeonghwan-park
 
 ✔️ Github : johnpark144
 
