@@ -5,8 +5,6 @@
 
 ✔️ Name : Yeonghwan Park (박영환)
 
-✔️ English Name : John Park
-
 ✔️ E-mail : vyckd354@gmail.com
 
 ✔️ LinkedIn : in/yeonghwan-park
