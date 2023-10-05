@@ -50,7 +50,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 <h3>🌱 Now, I'm studying </h3>
 <hr>
  <br>
-&#10551; Coding Test Prep
+&#10551; Coding Test and Question Prep
  <br>
  <br>
 &#10551; Theory for CS, Web development
