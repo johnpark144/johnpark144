@@ -12,7 +12,7 @@
 ✔️ Github : johnpark144
 
 ``` 
-Hi! I am a savvy front-end developer who is being developed and developing as a full-stack developer.🧑‍💻
+Hi! I am a savvy front end developer who is being developed and developing as a full stack developer.🧑‍💻
 I am eagerly longing to be a good full-stack developer, That is my life-goal.
 
 ```
