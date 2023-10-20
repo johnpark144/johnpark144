@@ -49,7 +49,6 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 <td valign="top" width="45%">
 <h3>🌱 Now, I'm studying </h3>
 <hr>
- <br>
 &#10551; Coding Test and Question Prep
  <br>
  <br>
