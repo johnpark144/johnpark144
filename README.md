@@ -21,7 +21,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 <tr>
 <td valign="top" width="55%">
 <h3>🛠 Languages and Tools</h3>
-<hr> <br>
+<hr>
 <a href="https://github.com/johnpark144/Practical_Study/blob/main/_JS%2C%20JS_DOM_Event.js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://github.com/johnpark144/Practical_Study/blob/main/Typescript.ts" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -47,7 +47,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
  <br> <br>
 </td>
 <td valign="top" width="45%">
-<h3>🌱 Now, I'm studying </h3>
+<h3>🌱 Now, I'm studying</h3>
 <hr>
 &#10551; Coding Test and Question Prep
  <br>
