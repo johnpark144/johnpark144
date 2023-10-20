@@ -19,7 +19,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 
 <table width="1200px">
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="55%">
 <h3>🛠 Languages and Tools</h3>
 <hr> <br>
 <a href="https://github.com/johnpark144/Practical_Study/blob/main/_JS%2C%20JS_DOM_Event.js" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
@@ -46,7 +46,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 <a href="https://github.com/johnpark144/Practical_Study/blob/main/_Git%2C%20GitHub.js" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
  <br> <br>
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="45%">
 <h3>🌱 Now, I'm studying </h3>
 <hr>
  <br>
