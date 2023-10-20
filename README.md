@@ -1,7 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnpark144&label=Profile%20views&color=0e75b6&style=flat" alt="johnpark144" /> </p>
-<h3>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Introduce
-</h3>
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> <h2>Introduce</h2>
 
 ![hell0](https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif)
 
@@ -59,7 +57,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 </tr>
 </table>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Relative Activity
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <h2>Relative Activity</h2>
 * Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
 * Shingu College (South Korea) – Mobile IT Media (Only some credits done)
 * Meta Front end Developer Certificate
