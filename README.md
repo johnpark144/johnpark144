@@ -59,10 +59,10 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 </table>
 
 <h2>🧑‍💻 Relative Activity</h2>
-* Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics
-* Shingu College (South Korea) – Mobile IT Media (Only some credits done)
-* Meta Front end Developer Certificate
-* and Redux, NextJs, RTL & Jest, React Natve Certificate (Basic)
+* Yangyoung Digital High School  (IT Specialized High school, South Korea) – Digital Robotics <br>
+* Shingu College (South Korea) – Mobile IT Media (Only some credits done) <br>
+* Meta Front end Developer Certificate <br>
+* and Redux, NextJs, RTL & Jest, React Natve Certificate (Basic) <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnpark144&show_icons=true&locale=en&layout=compact" alt="johnpark144" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnpark144&show_icons=true&locale=en" alt="johnpark144" /></p>
