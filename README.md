@@ -52,7 +52,7 @@ I am eagerly longing to be a good full-stack developer, That is my life-goal.
 &#10551; Coding Test and Question Prep
  <br>
  <br>
-&#10551; Theory for CS, Web development
+&#10551; English study for CS, Web development
 </td>
 </tr>
 </table>
